@@ -1,0 +1,13 @@
+[
+    {
+        "flightid": "123",
+        "flightname": "Fee",
+        "capacity": "235",
+        "startingtime": "12:00",
+        "reachingtime": "14:00",
+        "location": "HaydarAliyev",
+        "destination": "123",
+        "price": "123",
+        "type": "VIP"
+    }
+]

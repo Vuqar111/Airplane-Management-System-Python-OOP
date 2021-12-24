@@ -1,0 +1,13 @@
+[
+    {
+        "flightid": "12345",
+        "flightname": "Resize",
+        "capacity": "345",
+        "startingtime": "13",
+        "reachingtime": "15",
+        "source": "Turkey",
+        "destination": "Alanya",
+        "price": "235",
+        "type": "VIP"
+    }
+]

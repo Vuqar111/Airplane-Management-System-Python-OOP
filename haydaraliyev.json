@@ -1,0 +1,24 @@
+[
+    {
+        "flightid": "123",
+        "flightname": "32",
+        "capacity": "34",
+        "startingtime": "342",
+        "reachingtime": "342",
+        "source": "324",
+        "destination": "324",
+        "price": "324",
+        "type": "324"
+    },
+    {
+        "flightid": "1231",
+        "flightname": "123",
+        "capacity": "213",
+        "startingtime": "123",
+        "reachingtime": "132",
+        "source": "123",
+        "destination": "132",
+        "price": "34",
+        "type": "VIP"
+    }
+]
